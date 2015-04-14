@@ -1,6 +1,5 @@
 /**
- * Created by liuyubobobo on 14-4-11.
- * my site: http://www.liuyubobobo.com
+ * Created by zz on 14-12-11.
  */
 
 var board = new Array();
